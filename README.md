@@ -1,4 +1,6 @@
 # FIT1008-A1
 Python - Classes 
 Assignment 1 
-classes and object orientated learning
+Classes, inhertance and object orientated learning
+Stack and Queue ADTs
+
